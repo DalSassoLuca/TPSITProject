@@ -1,0 +1,6 @@
+module ProgettoTIPSIT
+typeinfo appProgettoTIPSIT.qmltypes
+prefer :/qt/qml/ProgettoTIPSIT/
+Main 254.0 Main.qml
+depends QtQuick
+

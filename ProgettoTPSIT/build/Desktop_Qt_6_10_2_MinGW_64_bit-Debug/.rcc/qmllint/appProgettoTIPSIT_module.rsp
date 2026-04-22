@@ -1,0 +1,14 @@
+-I
+C:/Users/10934248/Documents/ProgettoTIPSIT/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug
+-I
+C:/Users/10934248/Documents/ProgettoTIPSIT/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/ProgettoTIPSIT
+-I
+C:/Users/10934248/Documents/ProgettoTIPSIT/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug
+-I
+C:/Qt/6.10.2/mingw_64/qml
+--resource
+C:/Users/10934248/Documents/ProgettoTIPSIT/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/rcc/qmake_ProgettoTIPSIT.qrc
+--resource
+C:/Users/10934248/Documents/ProgettoTIPSIT/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/.qt/rcc/appProgettoTIPSIT_raw_qml_0.qrc
+--module
+ProgettoTIPSIT
